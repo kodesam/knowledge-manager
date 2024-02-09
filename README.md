@@ -1,9 +1,10 @@
+# Knowledge-Manager
 
 A Contextual Bot enabled Intelligent solution, which would be checking the release user stories, notes, design documents and continuously update the Knowledge portal with summarized information by customer Journeys - What, where and How systems are impacted with new release changes - Rule based learning and reinforcement learning. Contextual keywords to enable the searchs of the user on the portal. System should be able to find the documents with cognitive interfaces to user. The knowledge should cover technical details and API contracts and where and what APIs impacted at code level for this particular business need.
-![image](https://github.com/kodesam/knowledge-manager/assets/81068983/e653651d-5817-4bc1-9248-37c6d850ff29)
 
 
-Creating an intelligent solution like the one you described involves several advanced steps and integrates various technologies, including NLP (Natural Language Processing), machine learning, and web development. Below is a high-level design of such a system:
+
+###### Creating an intelligent solution like the one you described involves several advanced steps and integrates various technologies, including NLP (Natural Language Processing), machine learning, and web development. Below is a high-level design of such a system:
 
 1. Data Collection and Preprocessing
 The first step is to collect user stories, notes, and design documents. These documents can be stored in a document database (such as MongoDB). You would use NLP techniques to preprocess data, including tokenization, lemmatization, and removal of stop words, to make it more suitable for analysis.
